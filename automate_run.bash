@@ -17,3 +17,4 @@ done
 cat $RESULT_DIR/lengths.txt
 
 # will append into empty file for each loop iteration
+# plus edited now to check versioning control
