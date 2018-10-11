@@ -14,7 +14,9 @@ do
 wc -l $filename | sort -n | head -n 1 >> $RESULT_DIR/lengths.txt
 done
 
-cat $RESULT_DIR/lengths.txt
+#cat $RESULT_DIR/lengths.txt
 
 # will append into empty file for each loop iteration
 # plus edited now to check versioning control
+
+# doing some additional changes: addes this comment, and commented cat
