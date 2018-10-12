@@ -5,6 +5,11 @@ Repository to store my files from the software carpentry workshop Uppsala 181011
 
 This repository is publicly available. See LICENCE for conditions
 
+This is a badge for this stuff as a binder here: Please try our code by clicking on :
+
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/helenmoor/SoftwareCarpentryWorkshop/master)
+
+
 
 (GENERAL: put into here:)
 
