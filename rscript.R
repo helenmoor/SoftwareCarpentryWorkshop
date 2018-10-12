@@ -4,11 +4,11 @@ cats <- read.csv(file = "data/feline-data.csv")#, stringsAsFactors = F) # could 
 # str(cats)  # factor
 # typeof(cats$likes_string) # could convert this to logical
 
-# typeof(TRUE) # logical
-# typeof(3.14) # double
-# typeof(3) # double -> to really get integer: type 3L
-# typeof(3L) # integer
-# typeof(1+1i) # complex
+typeof(TRUE) # logical
+typeof(3.14) # double
+typeof(3) # double -> to really get integer: type 3L
+typeof(3L) # integer
+typeof(1+1i) # complex
 
 # vector1 <- vector(length=3) # creates logical
 # vector2 <- vector(mode = "character", length=3) # 3 empty character type elements
