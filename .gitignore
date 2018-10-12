@@ -1,4 +1,4 @@
-# ignore diff things in data, so we can keep feline-data.csv :
+
 data/pdb/
 data/*.txt
 data/animal-counts/
@@ -20,6 +20,8 @@ thesis/
 writing
 .Rproj.user
 *.Rproj
+
+# ignore diff things in data, so we can keep feline-data.csv : elements somehow still is being tracked
 
 # this is an exception: NOTE: the following does nto work - cannot make exception for a file in an ignored dir
 #!data/feline-data.csv
