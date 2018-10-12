@@ -2,7 +2,7 @@
 data/pdb/
 data/*.txt
 data/animal-counts/
-data/elements/*.xml
+data/elements/
 results/
 *.pdf
 .bash_profile
