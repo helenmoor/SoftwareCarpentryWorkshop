@@ -1,6 +1,6 @@
-data/pdb/
-data/animal-counts/
-data/elements/
+data/pdb
+data/animal-counts
+data/elements
 data/*.txt
 results/
 *.pdf
