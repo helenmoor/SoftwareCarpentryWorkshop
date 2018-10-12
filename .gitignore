@@ -19,6 +19,7 @@ pizza.cfg
 thesis/
 writing
 .Rproj.user
+*.Rproj
 
 # this is an exception: NOTE: the following does nto work - cannot make exception for a file in an ignored dir
 #!data/feline-data.csv
