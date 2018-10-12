@@ -17,7 +17,8 @@ This repository is publicly available. See LICENCE for conditions
 # (can say: use as is - dont have time, cant do more) or: I do not accpet any contribution. (If you dont have time to deal wtih it.):
 THis code is given as is. No support and no pull request will be accepted. 
 
-# How to cite
+# How to cite (added DOI generated for release v1.0 on zenodo.org)
 
+[![DOI](https://zenodo.org/badge/152607227.svg)](https://zenodo.org/badge/latestdoi/152607227)
 
 # Note: this is a markdown file, see Preview above. (hash here is not a comment :)
