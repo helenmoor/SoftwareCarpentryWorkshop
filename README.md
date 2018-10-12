@@ -11,13 +11,15 @@ This repository is publicly available. See LICENCE for conditions
 
 # How to get it
 
-# How to use it (input, output, what can you generate with this code etc?)
+# How to use it
+(input, output, what can you generate with this code etc?)
 (can say: use as is - dont have time, cant do more) or: I do not accpet any contribution. (If you dont have time to deal wtih it.) eg:
 This code is given as is. No support and no pull request will be accepted. 
 
 # How to contribute 
 
-# How to cite (added DOI generated for release v1.0 on zenodo.org)
+# How to cite
+(added DOI generated for release v1.0 on zenodo.org)
 
 [![DOI](https://zenodo.org/badge/152607227.svg)](https://zenodo.org/badge/latestdoi/152607227)
 
