@@ -1,5 +1,5 @@
 # ignore diff things in data, so we can keep feline-data.csv :
-data/pdb
+data/pdb/
 data/*.txt
 data/animal-counts/
 data/elements/
