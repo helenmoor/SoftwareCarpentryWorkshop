@@ -1,12 +1,7 @@
 # ignore diff things in data, so we can keep feline-data.csv :
 data/pdb
 data/*.txt
-data/animal-counts
-data/molecules
-data/creatures
-data/molecules-backup
-data/north-pacific-gyre
-data/elements/
+data/elements
 results/
 *.pdf
 .bash_profile
