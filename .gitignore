@@ -1,4 +1,12 @@
-data/
+# ignore diff things in data, so we can keep feline-data.csv :
+data/pdb
+data/*.txt
+data/animal-counts
+data/molecules
+data/creatures
+data/molecules-backup
+data/north-pacific-gyre
+data/elements/
 results/
 *.pdf
 .bash_profile
@@ -16,5 +24,6 @@ thesis/
 writing
 .Rproj.user
 
-# this is an exception:
-!data/feline-data.csv
+# this is an exception: NOTE: the following does nto work - cannot make exception for a file in an ignored dir
+#!data/feline-data.csv
+# what i could do is make an exception for a single pdf eventhough i ignore all *.pdf
