@@ -1,8 +1,7 @@
-
 data/pdb/
-data/*.txt
 data/animal-counts/
 data/elements/
+data/*.txt
 results/
 *.pdf
 .bash_profile
